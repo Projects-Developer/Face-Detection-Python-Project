@@ -1,6 +1,8 @@
 # Face-Detection-Python-Project
 The Face Detection Python Project With Code, Documents And Video Tutorial
 
+![Live Face Detection](https://github.com/user-attachments/assets/f8465190-42bf-485a-8256-b68cf6b93a7f)
+
 ## Youtube: https://youtu.be/yWWGJKh_GAM?si=oPIJweJZWOde_pQv
 
 ## Abstract: 
